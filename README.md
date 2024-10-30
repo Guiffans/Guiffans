@@ -19,4 +19,5 @@ TypeScript 🚀
 Java ☕
 PHP 🌐
 React ⚛️
+Angular 🅰️
 
